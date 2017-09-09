@@ -1,1 +1,1 @@
-# Automate-Stuff
+# Python scripts written to automate repetitive tasks.
