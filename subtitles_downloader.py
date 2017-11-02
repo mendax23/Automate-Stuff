@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 video_extensions = [".avi", ".mp4", ".mkv", ".mpg", ".mpeg",
                     ".mov", ".rm", ".vob", ".wmv", ".flv", ".3gp", ".3g2"]
 
-
+#sample comment for learning purpose
 def get_all_files():
     """
     Return all video files in the current directory.
