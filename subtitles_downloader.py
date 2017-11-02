@@ -1,6 +1,6 @@
 """
 This module downloads subtitles file for all video files in the current directory.
-The subtitles are first tried to be downloaded from http://thesubdb.com/ 
+The subtitles are first tried to be downloaded from http://thesubdb.com/
 and if not found there, then https://subscene.com/ is tried.
 """
 
@@ -16,6 +16,7 @@ video_extensions = [".avi", ".mp4", ".mkv", ".mpg", ".mpeg",
                     ".mov", ".rm", ".vob", ".wmv", ".flv", ".3gp", ".3g2"]
 
 #sample comment for learning purpose
+#This is a much detailed comment for future learning purposes.
 def get_all_files():
     """
     Return all video files in the current directory.
